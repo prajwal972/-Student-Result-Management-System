@@ -1,5 +1,5 @@
 # -Student-Result-Management-System
-📖 Project Description.
+📖 Project Description
 
 The Student Result Management System is a simple, menu-driven Python application designed to manage student academic records. This project allows users to add, view, update, and delete student result details such as name, roll number, subject-wise marks, total marks, percentage, and grade.
 
